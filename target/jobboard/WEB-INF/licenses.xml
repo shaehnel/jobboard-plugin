@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<l:dependencies xmlns:l='licenses' groupId='com.trashgroup.jenkins' artifactId='jobboard' version='1.0-SNAPSHOT'><l:dependency name='jobboard' groupId='com.trashgroup.jenkins' artifactId='jobboard' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/jobboard/'><l:description/></l:dependency></l:dependencies>
